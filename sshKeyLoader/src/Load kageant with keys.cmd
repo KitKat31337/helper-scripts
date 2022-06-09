@@ -1,0 +1,1 @@
+pwsh "%USERPROFILE%\.ssh\Load kageant with keys.ps1"
